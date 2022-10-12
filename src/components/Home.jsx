@@ -21,8 +21,8 @@ const Home = () => {
                 </Link>
             </div>
 
-            <div className=' scale-50 md:scale-100'>
-                <img src={Logo} alt='my profile' className='rounded-full w-full'/>
+            <div className=' scale-50 md:scale-75 hover:-translate-y-10 transition duration-500'>
+                <img src={Logo} alt='my profile' className='w-full'/>
             </div>
             
         </div>

@@ -9,6 +9,7 @@ import NodeIcon from '../assets/nodejs.png'
 import TailwindIcon from '../assets/tailwind.png'
 import PythonIcon from '../assets/python.png'
 import CppIcon from '../assets/cpp.png'
+import JavaIcon from '../assets/Java.png'
 
 const Skills = () => {
     const tools = [
@@ -61,6 +62,11 @@ const Skills = () => {
             id: 9,
             name: "C++",
             src: CppIcon
+        },
+        {
+            id: 10,
+            name:"Java",
+            src: JavaIcon
         }
     ]
 

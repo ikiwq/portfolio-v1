@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import Logo from '../assets/images/logo.png'
 import {FaBars, FaGithub, FaTimes, FaTwitch, FaTwitter, FaYoutube, FaInstagram} from 'react-icons/fa'
 import { Link } from 'react-scroll'
 
@@ -56,7 +55,6 @@ const NavBar = () => {
   return (
     <div className=' w-full z-10 max-h-20 flex text-white fixed bg-black px-4 md:flex md:flex-col md:w-20 md:max-h-full md:h-full items-center justify-between'>
         <div className='py-4 mx-auto'>
-            <img src={Logo} className='hidden rounded-full md:scale-125 md:table md:top-0'/>
             <h1 className='my-auto text-1xl font-handwrite text-center py-3 text-2xl cursor-default hover:scale-150 duration-300'>Iki</h1>
         </div>
 
