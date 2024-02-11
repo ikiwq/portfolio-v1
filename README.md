@@ -10,7 +10,7 @@ This is the first iteration of my portfolio that I made almost two years ago, tw
 </p>
     
 ### Requirements
-- Node 14.x or higher. Download node from the [official website](https://nodejs.org/en)https://nodejs.org/en.
+- Node 14.x or higher. Download node from the [official website](https://nodejs.org/en).
 
 ### Installation
 Clone the repository with:
